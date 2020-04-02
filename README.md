@@ -25,3 +25,5 @@ Modul Persiapan Uji Kenaikan Level Lengkap
 ![Alt Text](https://github.com/Fatan169/Modul_PUKL_0---6_Fix/blob/master/HasilScreenshot/Login%20-%20Google%20Chrome%204_2_2020%208_53_26%20PM.png "Hasil Sebelas")
 # Hasil Duabelas
 ![Alt Text](https://github.com/Fatan169/Modul_PUKL_0---6_Fix/blob/master/HasilScreenshot/Login%20-%20Google%20Chrome%204_2_2020%208_53_17%20PM.png "Hasil Duabelas")
+
+Sebenarnya masih ada lagi (fontawesome) karena lebih dari 100 file jadi nggak bisa dicantumkan sekalian
